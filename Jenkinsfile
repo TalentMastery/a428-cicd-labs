@@ -10,3 +10,4 @@ node {
         }
     }
 }
+#ini bisa di hapus dan ini scripted syntax ;)
